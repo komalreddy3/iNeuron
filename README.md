@@ -11,3 +11,5 @@
 - build an appropriate Machine Learning Model that will
 - help various Zomato Restaurants to predict their respective Ratings based on certain features.
 ```
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/82363361/218154273-ac96ae70-22c3-48e5-b5f4-3b06ad18e56c.png">
