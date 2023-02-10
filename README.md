@@ -1,6 +1,6 @@
 # iNeuron
 
-#Restaurant Rating Prediction 
+# Restaurant Rating Prediction 
 ## Author- Komal Reddy K
 **Programming Language- Python**
 
